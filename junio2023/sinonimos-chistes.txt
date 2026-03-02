@@ -1,0 +1,38 @@
+abuela: anciana, vieja, matriarca
+lecho: cama, lechera
+muerte: fallecimiento, deceso, obito
+nieta: neta, descendiente
+granja: finca, hacienda, rancho
+tractores: vehiculo agricola, maquinaria pesada, tractor
+vacas: bovinos, reses, terneras
+ovejas: borregos, corderos, carneros
+gallinas: aves de corral, pollos, polluelos
+arboles frutales: frutales, arboles productores de frutas
+habitantes: residentes, poblacion, ciudadanos
+Malaga: ciudad española, costa del sol
+supermercado: tienda de comestibles, abarrotes, autoservicio
+cajera: cajero, dependiente, empleada de tienda
+yogures: lacteos, productos lacteos
+mareo: vertigo, desvanecimiento, aturdimiento
+San Pedro: santo, apostol
+cura: sacerdote, parroco, reverendo
+Lola: nombre propio
+esposa: mujer, conyuge, compañera
+salud: bienestar, estado de salud
+enfermedad: dolencia, mal, afeccion
+riqueza: fortuna, opulencia, prosperidad
+pobreza: miseria, indigencia, necesidad
+maestra: profesora, docente, educadora
+clase: sesion, leccion, curso
+Psicologia: estudio de la mente, psiquiatria
+estupido: idiota, tonto, imbecil
+silencio: quietud, calma, paz
+Jaimito: nombre propio
+docente: profesor, educador, maestro
+amor: cariño, afecto, pasion
+marido: esposo, conyuge, compañero
+mujer: esposa, conyuge, compañera
+tonteria: ridiculez, necedad, estupidez
+perro: can, canino, chucho, perrito
+casa: hogar, vivienda, residencia, morada, domicilio
+telefono: movil, celular, smartphone, fijo, telefono inteligente

@@ -1,0 +1,3 @@
+GradoI: 4 residentes
+GradoII: 2 residentes
+

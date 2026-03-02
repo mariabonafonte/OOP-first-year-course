@@ -1,0 +1,10 @@
+Guardar en la carpeta del proyecto los archivos 
+
+chistes.txt
+consejos.txt
+sinonimos-chistes.txt
+sinonimos-consejos.txt 
+
+Guardar en la carpeta src del proyecto el archivo
+
+MainChatbot.java

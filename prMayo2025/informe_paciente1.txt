@@ -1,0 +1,10 @@
+Informe de Juan Pérez: 
+Resultado de analisis de sangre... 
+Realizado:2025-04-01
+Glucosa alto: 100.0 (normal: 85.0-70.0)
+Colesterol alto: 200.0 (normal: 190.0-125.0)
+Resultado de radiografia... 
+Realizado:2025-04-02
+Ubicacion de la imagen: C:/imagenes/radiografia1.jpg
+Diagnóstico del  médico: No se observan anomalías
+

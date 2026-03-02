@@ -1,0 +1,8 @@
+Resultado de análisis de sangre...
+Realizado: 2025-04-01
+Glucosa normal: 85.0 (normal: 70.0-100.0)
+Colesterol normal: 190.0 (normal: 125.0-200.0)
+Resultado de radiografía...
+Realizada: 2025-04-02
+Ubicación de la imagen: C:/imagenes/radiografia1.jpg
+Diagnóstico del médico: No se observan anomalías

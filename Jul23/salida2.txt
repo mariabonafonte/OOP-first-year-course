@@ -1,0 +1,8 @@
+ 1 Bici([LUZ])
+ 1 Bici([])
+ 3 Bici([LUZ, BATERIA, CESTA])
+ 3 Bici([LUZ, GPS, BATERIA, CESTA])
+ 1 Bici([GPS, BATERIA, CESTA])
+ 1 Bici([LUZ, GPS, CESTA])
+ 1 Bici([LUZ, GPS, BATERIA])
+ 2 Bici([LUZ, CESTA])

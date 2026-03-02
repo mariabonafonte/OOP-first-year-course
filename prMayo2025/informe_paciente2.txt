@@ -1,0 +1,11 @@
+Informe de Ana García: 
+Resultado de analisis de sangre... 
+Realizado:2025-04-03
+Glucosa alto: 100.0 (normal: 65.0-70.0)
+Colesterol bajo: 200.0 (normal: 230.0-125.0)
+Plaquetas alto: 450000.0 (normal: 100000.0-150000.0)
+Resultado de radiografia... 
+Realizado:2025-04-04
+Ubicacion de la imagen: C:/imagenes/radiografia2.jpg
+Diagnóstico del  médico: Fractura en el brazo derecho
+

@@ -1,0 +1,39 @@
+Vale: apreciar, costar, tener valor, equivaler.
+Actuar: obrar, ejecutar, realizar, desempeñar, cumplir.
+Arrepentirse: lamentar, remorder, compadecerse, sentir, pesar.
+Hacer: realizar, ejecutar, llevar a cabo, efectuar, crear.
+Gobernar: dirigir, regir, mandar, liderar, comandar.
+Hombre: varon, individuo, persona, ser humano, macho.
+Consentimiento: permiso, autorizacion, conformidad, aquiescencia, aprobacion.
+Vivir: existir, sobrevivir, residir, habitar, morar.
+Solo: solitario, aislado, incomprendido, abandonado, desamparado.
+Fiesta: celebracion, evento, reunion, diversion, jolgorio.
+Nadie: ninguna persona, ningun ser humano, ningun individuo, ninguno, cero.
+Hacer caso: prestar atencion, escuchar, atender, obedecer, seguir.
+Decir: hablar, expresar, manifestar, pronunciar, articular.
+Pensar: reflexionar, meditar, considerar, razonar, deliberar.
+Hermandad: silencio, mutismo, reserva, discrecion, prudencia.
+Proverbio: refran, adagio, dicho, sentencia, maxima.
+arabe: musulman, islamico, oriental, magrebi, arabe.
+Ser feliz: estar contento, sentir alegria, gozar, disfrutar, sonreir.
+Siempre: todo el tiempo, en todo momento, constantemente, continuamente, perpetuamente.
+Saber: conocer, comprender, entender, tener conocimiento, dominar.
+Todo: totalidad, conjunto, todo lo que hay, la suma de todo, integro.
+Errar: equivocarse, fallar, desacertar, fracasar, cometer errores.
+Necio: tonto, estupido, idiota, insensato, bobo.
+Permanecer: quedarse, mantenerse, continuar, persistir, durar.
+Error: equivocacion, fallo, desacierto, yerro, equivocidad.
+Verdadera: auténtica, real, genuina, cierta, verdadera.
+Sabiduria: conocimiento, sapiencia, erudicion, sabiduria, culturacion.
+Reconocer: admitir, aceptar, confesar, reconocer, reconocerse.
+Propio: personal, privado, individual, propio, particular.
+Ignorancia: desconocimiento, incultura, falta de conocimiento, desconocimiento, ignorancia.
+Peor: mas malo, peor que mal, mas pésimo, mas desfavorable, mas negativo.
+Experiencia: vivencia, prueba, experimento.
+Mejor: mas bueno, superior, excelente, optimo, ideal.
+Maestro: instructor, docente, profesor, mentor, guia.
+Permanecer callado: callar, no hablar, guardar silencio, no decir nada, estar en silencio.
+Tonto: estupido, idiota, necio, bobo, torpe.
+Hablar: expresarse, comunicarse, decir, articular, hablar en voz alta.
+Inspiracion: motivacion, innovacion, chispa
+maestra: profesora, docente, educadora

@@ -1,0 +1,11 @@
+gasolina95 623
+gasolina98 480
+gasolina98 1100
+gasolina98 650
+gasolina95 595
+gasolina95 300
+dieselPlus 870
+dieselPlus 934
+dieselPlus 745
+diesel 1130
+diesel 650

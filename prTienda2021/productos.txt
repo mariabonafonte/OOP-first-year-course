@@ -1,0 +1,6 @@
+Ordenador de Sobremesa%procesador ACME,8GB RAM,1TB HDD%informatica%700%6
+Ordenador Portatil%procesador EMCA,4GB RAM,500GB HDD%informatica%500%13
+Telefono Movil%full HD,4GB RAM,128GB SSD,doble camara%smartphone%400%7
+Ordenador Portatil%procesador ACME,4GB RAM,300GB HDD%informatica%400%11
+Ordenador de Sobremesa%procesador EMCA,2GB RAM,300GB HDD%informatica%300%9
+Telefono Movil%HD,4GB RAM,64GB SSD,camara%smartphone%200%8

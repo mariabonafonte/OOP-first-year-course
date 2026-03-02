@@ -1,0 +1,9 @@
+Resultado de análisis de sangre...
+Realizado: 2025-04-03
+Glucosa bajo: 65.0 (normal: 70.0-100.0)
+Colesterol alto: 230.0 (normal: 125.0-200.0)
+Plaquetas bajo: 100000.0 (normal: 150000.0-450000.0)
+Resultado de radiografía...
+Realizada: 2025-04-04
+Ubicación de la imagen: C:/imagenes/radiografia2.jpg
+Diagnóstico del médico: Fractura en el brazo derecho

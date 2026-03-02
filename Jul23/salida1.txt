@@ -1,0 +1,1 @@
+ 1 Bici([LUZ, BATERIA, CESTA])

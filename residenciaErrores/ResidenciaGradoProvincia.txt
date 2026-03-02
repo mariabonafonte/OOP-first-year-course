@@ -1,0 +1,4 @@
+GradoI:[Cádiz, Sevilla, Almería, Jaén, Málaga, Córdoba]
+GradoII:[Cádiz, Huelva, Almería, Jaén, Málaga, Granada, Córdoba]
+GradoIII:[Sevilla, Huelva, Jaén, Málaga, Córdoba, Granada]
+
