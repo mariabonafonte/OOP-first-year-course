@@ -14,22 +14,7 @@ Repository containing the projects, practical assignments, and exercises develop
 
 This repository contains the different projects and practical exercises developed throughout the course.
 
-The projects cover a variety of problems and applications, including:
-
-* 🏥 Patient and hospital management
-* 🏠 Residence management
-* 🚲 Bicycle management
-* 🛒 Shops and stores
-* 🤖 Chatbots
-* 🚗 Vehicle management
-* ✈️ Flights and routes
-* 🎾 Sports and tennis
-* 💉 Vaccination management
-* 📚 Library management
-* 🍔 Food and restaurant-related applications
-* 🌱 Other practical OOP exercises
-
-The repository also contains exercises, exam practices, and smaller programming assignments completed throughout the course.
+The projects cover a variety of problems and applications. The repository also contains exercises, exam practices, and smaller programming assignments completed throughout the course.
 
 ### 🧩 Main Concepts
 
